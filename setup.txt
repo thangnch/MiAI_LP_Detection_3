@@ -1,0 +1,6 @@
+opencv-python
+matplotlib
+keras
+tensorflow==1.15.0
+imutils
+scikit-image
